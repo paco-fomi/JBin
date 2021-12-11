@@ -1,6 +1,6 @@
 # JBin
 
-========================================================
+
 JBIN Versión 1.0
 ========================================================
 
@@ -8,7 +8,6 @@ Para poder probar este ejemplo y que el proyecto funcione correctamente, necesit
 
 Las puedes adquirir gratuitamente bajo esta licencia en https://games.virtual.es/jbin
 
-==========================================================
 VIRTUAL MEDIA PRODUCCIONES Acuerdo de Licencia JBin de Usuario Final
 ==========================================================
 
